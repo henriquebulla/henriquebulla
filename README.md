@@ -1,7 +1,7 @@
 # Olá! Sou Henrique Bulla!👋
 ## 👩‍💻 QA Engineer
 
-Desde 2015 atuo na área de testes de software, sou tecnólogo em Analise e Desenvolvimento de Sistemas. Tenho experiência com testes manuais e automatizados web e API mas me desempenho melhor em testes de API! Atualmente sou Analista de Teste Pleno pela [Matera](https://www.matera.com.br).
+Desde 2015 atuo na área de testes de software, sou tecnólogo em Analise e Desenvolvimento de Sistemas. Tenho experiência com testes manuais e automatizados web e API! Atualmente sou Analista de Teste Pleno pela [Matera](https://www.matera.com.br).
 
 <div align="center">
   <a href="https://github.com/henriquebulla">
